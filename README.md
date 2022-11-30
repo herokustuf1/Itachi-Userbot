@@ -1,15 +1,15 @@
- <h1 align="center">✨ 𝙉𝙖𝙣𝙙𝙖𝙋𝙚𝙙𝙞𝙖-𝙐𝙗𝙤𝙩 ✨</h1>
+ <h1 align="center">✨ ɪᴛᴀᴄʜɪ-ᴜꜱᴇʀʙᴏᴛ ✨</h1>
 
-<a href="https://github.com/tokonandapedia/NandaPediaUbot/commits"> <img src="https://img.shields.io/github/last-commit/tokonandapedia/NandaPediaUbot?color=red&logo=github&logoColor=blue&style=for-the-badge" /></a>
+<a href="https://github.com/herokustuf1/Itachi-Userbot/commits"> <img src="https://img.shields.io/github/last-commit/tokonandapedia/NandaPediaUbot?color=red&logo=github&logoColor=blue&style=for-the-badge" /></a>
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/AyiinXd/Ayiin-Userbot)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-blue)](https://GitHub.com/tokonandapedia/NandaPediaUbot/graphs/commit-activity)
-[![CodeQuality](https://img.shields.io/codacy/grade/a723cb464d5a4d25be3152b5d71de82d?color=blue&logo=codacy)](https://app.codacy.com/gh/tokonandapedia/NandaPediaUbot/dashboard)
-[![GitHub Forks](https://img.shields.io/github/forks/tokonandapedia/NandaPediaUbot?&logo=github)](https://github.com/tokonandapedia/NandaPediaUbot/fork)
-[![GitHub Stars](https://img.shields.io/github/stars/tokonandapedia/NandaPediaUbot?&logo=github)](https://github.com/tokonandapedia/NandaPediaUbot/stargazers)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-blue)](https://github.com/herokustuf1/Itachi-Userbot/graphs/commit-activity)
+[![CodeQuality](https://img.shields.io/codacy/grade/a723cb464d5a4d25be3152b5d71de82d?color=blue&logo=codacy)](https://app.codacy.com/gh/herokustuf1/Itachi-Userbot/dashboard)
+[![GitHub Forks](https://img.shields.io/github/forks/herokustuf1/Itachi-Userbot?&logo=github)](https://github.com/herokustuf1/Itachi-Userbot/fork)
+[![GitHub Stars](https://img.shields.io/github/stars/herokustuf1/Itachi-Userbot?&logo=github)](https://github.com/herokustuf1/Itachi-Userbot/stargazers)
 
 
 <p align="center">
-  <img src="https://telegra.ph/file/8d9d5ec998234c4e43bca.jpg">
+  <img src="https://telegra.ph/file/6429eeb5f60c355728e72.jpg">
 </p>
 
 👩‍💻 NandaPedia-Ubot adalah userbot Telegram modular yang berjalan di Python3 dengan database sqlalchemy.
@@ -45,9 +45,9 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan userbot ini dengan bijak
 ### Tutorial Deploy di VPS
 
 
- • `git clone https://github.com/tokonandapedia/NandaPediaUbot`
+ • `git clone https://github.com/herokustuf1/Itachi-Userbot`
 
- • `cd NandaPediaUbot`
+ • `cd Itachi-Userbot`
 
  • `pip3 install -U -r requirements.txt`
 
@@ -59,7 +59,7 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan userbot ini dengan bijak
   - ketik ctrl + S
   - ctrl + X
 
- • `screen -S NandaPediaUbot`
+ • `screen -S Itachi-Userbot`
 
  • `bash start`
 

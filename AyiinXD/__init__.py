@@ -553,7 +553,7 @@ with bot:
                 result = builder.article(
                     title="Repository",
                     description="Repository ɪᴛᴀᴄʜɪ-ᴜꜱᴇʀʙᴏᴛ",
-                    url="https://t.me/nandapediamember",
+                    url="https://t.me/stufsupport",
                     thumb=InputWebDocument(
                         INLINE_PIC,
                         0,
